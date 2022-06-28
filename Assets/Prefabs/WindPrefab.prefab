@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 3376743397170175266}
   m_Layer: 7
   m_Name: WindPrefab
-  m_TagString: Untagged
+  m_TagString: Wind
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -137,4 +137,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ArrowVelocity: 0
+  ArrowDamage: 0
   rb: {fileID: 5384354758614279655}
